@@ -9,6 +9,7 @@ function App() {
   console.log(_.partition([1, 2, 3, 4], (n) => n % 2));
   return (
     <>
+      <div>Mushegh</div>
       <div>
         <a href="https://vite.dev" target="_blank">
           <img src={viteLogo} className="logo" alt="Vite logo" />
